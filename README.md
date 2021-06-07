@@ -1,0 +1,2 @@
+# NOtes
+STIGE internship project
